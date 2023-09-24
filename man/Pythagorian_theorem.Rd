@@ -2,15 +2,23 @@
 % Please edit documentation in R/Pythagorian_theorem.R
 \name{Pythagorian_theorem}
 \alias{Pythagorian_theorem}
-\title{Pythagorian_theorem means give bounds}
+\title{Calculate the length of the third side of a right triangle}
 \usage{
-Pythagorian_theorem(x, y, z)
+Pythagorian_theorem(a, b, c)
 }
 \arguments{
-\item{x}{a vectror of numbers that will}
+\item{a}{Numeric. Length of one side}
 
-\item{s}{the lower}
+\item{b}{Numeric. Length of the other side}
+}
+\value{
+Numeric. Length of the third side
 }
 \description{
-This argument will take 3 arguments and return results
+This function computes the length of the third side in a right triangle
+by applying the Pythagorean theorem
+}
+\examples{
+Pythagorian_theorem(3,4,NA)
+Pythagorian_theorem(a=4,b=3,c=NA)
 }
