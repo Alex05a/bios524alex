@@ -1,5 +1,10 @@
 .Rproj.user
 .Rhistory
+<<<<<<< HEAD
+=======
+.RData
+.Ruserdata
+>>>>>>> edc82ba053fd8e0f48d3b5690cb1cbcfaf408319
 .Rdata
 .httr-oauth
 .DS_Store

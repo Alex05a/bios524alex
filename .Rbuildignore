@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ^bios524alex\.Rproj$
+=======
+^.*\.Rproj$
+>>>>>>> edc82ba053fd8e0f48d3b5690cb1cbcfaf408319
 ^\.Rproj\.user$

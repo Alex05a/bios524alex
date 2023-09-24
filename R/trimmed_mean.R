@@ -13,6 +13,7 @@
 #'trimmed_mean(10,9,y)
 #' @export
 
+# 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
 
 y<-rnorm(50)
 y
